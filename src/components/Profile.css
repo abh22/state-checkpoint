@@ -1,0 +1,29 @@
+
+
+.image{
+    width: 200px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.container{
+    width: 300px;
+
+    background-color: yellowgreen;
+    display:flex;
+   
+    align-items:center;
+    flex-direction: column;
+    margin: 20px 50px ;
+}
+p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
